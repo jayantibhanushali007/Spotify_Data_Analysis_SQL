@@ -56,6 +56,7 @@ VALUES
 ('Imagine Dragons', 'Believer', 'Evolve', 'album', 0.75, 0.86, -5.7, 0.05, 0.2, 0.0, 0.2, 0.9, 123.5, 3.37, 'Alternative Rock', 'YouTube', 40000000, 950000, 70000, TRUE, TRUE, 9000000, 1.1, 'Spotify'),
 ('Dua Lipa', 'Levitating', 'Future Nostalgia', 'album', 0.85, 0.78, -7.2, 0.06, 0.15, 0.0, 0.17, 0.94, 103.6, 3.25, 'Disco Revival', 'VEVO', 35000000, 850000, 65000, TRUE, TRUE, 8500000, 0.9, 'Apple Music'),
 ('Shawn Mendes', 'Senorita', 'Single', 'single', 0.8, 0.72, -8.1, 0.04, 0.1, 0.0, 0.22, 0.89, 117.2, 3.1, 'Pop Duet', 'YouTube', 22000000, 500000, 30000, TRUE, TRUE, 6000000, 0.85, 'Spotify');
+
 ```
 
 
